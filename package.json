@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ShakirHassanGit/react-with-easypeasy-redux.git"
   },
+  "dependencies": {
+    "axios": "0.20.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
